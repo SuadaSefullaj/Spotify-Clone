@@ -33,8 +33,5 @@ dist-ssr
 
 # .gitignore
 .env
-
-
-# Ignore specific directories
 .public
 .browse-playlists
