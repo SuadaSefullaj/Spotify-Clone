@@ -31,6 +31,12 @@ dist-ssr
 /package-lock.json
 /package.json
 .vite.config.js
-# Ignore package-lock.json and package.json
-package-lock.json
-package.json
+
+# .gitignore
+src/browse-playlists/
+src/pages/login.jsx/
+src/pages/login.css/
+src/pages/index.css/
+
+
+
