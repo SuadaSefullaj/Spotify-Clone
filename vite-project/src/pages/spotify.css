@@ -1,0 +1,53 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.login > img {
+  width: 800px;
+  height: auto;
+}
+
+.loginWithSpotify {
+  padding: 25px;
+  border-radius: 99px;
+  font-weight: 600;
+  color: white;
+  text-decoration: none;
+  background-color: #1db954;
+  font-size: 22px;
+}
+.loginWithSpotify a {
+  color: white;
+  text-decoration: none;
+}
+
+link {
+  color: white;
+}
+
+.loginWithSpotify :hover {
+  color: yellow;
+}
+@media screen and (max-width: 400px) {
+  .login > img {
+    width: 350px;
+  }
+
+  .loginWithSpotify {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 850px) and (min-width: 401px) {
+  .login > img {
+    width: 500px;
+  }
+
+  .loginWithSpotify {
+    font-size: 18px;
+  }
+}

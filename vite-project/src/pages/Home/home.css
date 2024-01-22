@@ -1,0 +1,29 @@
+.components {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  background-color: black;
+  max-width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.sidebar-section {
+  min-width: 420px;
+  height: 100vh;
+  color: white;
+  background-color: black;
+  margin-right: 20px;
+}
+.body-section {
+  width: 100%;
+  margin: 0px;
+  margin-left: 10px;
+  overflow: scroll;
+  background-color: rgb(206, 65, 65);
+  border-radius: 10px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0px !important;
+  margin-top: 0px;
+}

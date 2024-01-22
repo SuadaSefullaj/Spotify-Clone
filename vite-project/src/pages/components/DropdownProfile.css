@@ -1,0 +1,33 @@
+.dropdownProfile{
+  position: absolute;
+  top: 4.5rem;
+  right:1.5rem;
+  width: 120px;
+  padding:0px;
+  padding-left: 18px;
+  border-radius: 15px;
+  background-color:rgb(58, 57, 57);
+  border: 1px solid gray;
+  z-index: 2000;
+}
+.dropdownProfile:hover {
+  background-color: rgb(78, 77, 77); /* Change to a lighter color on hover */
+}
+
+.dropdownProfile::before{
+  content: '';
+  position: absolute;
+  top:-0.7rem;
+  right:1.1rem;
+  width: 20px;
+  height: 20px;
+  transform: rotate(45deg);
+  background-color:rgb(58, 57, 57);
+  border: 1px solid transparent; 
+  border-top: 1px solid gray; 
+  border-left: 1px solid gray;
+  z-index: 2000;  
+}
+.dropdownProfile:hover::before {
+  background-color: rgb(78, 77, 77); /* Change to a lighter color on hover */
+}
