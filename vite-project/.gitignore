@@ -31,6 +31,10 @@ dist-ssr
 .package.json
 .vite.config.js
 
+# .gitignore
+.env
+
+
 # Ignore specific directories
 .public
 .browse-playlists
