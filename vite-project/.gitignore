@@ -28,15 +28,9 @@ dist-ssr
 .login.css
 .env
 .eslintrc.cjs
-/package-lock.json
-/package.json
 .vite.config.js
 
-# .gitignore
-src/browse-playlists/
-src/pages/login.jsx/
-src/pages/login.css/
-src/pages/index.css/
+
 
 
 
