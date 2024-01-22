@@ -28,9 +28,9 @@ dist-ssr
 .login.css
 .env
 .eslintrc.cjs
-.package-lock.json
-.package.json
+/package-lock.json
+/package.json
 .vite.config.js
-
-# .gitignore
-.browse-playlists
+# Ignore package-lock.json and package.json
+package-lock.json
+package.json
