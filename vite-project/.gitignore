@@ -33,5 +33,4 @@ dist-ssr
 .vite.config.js
 
 # .gitignore
-.env
 .browse-playlists
