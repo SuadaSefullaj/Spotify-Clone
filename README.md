@@ -6,7 +6,12 @@
 
 ## Preview
 
-![Spotify Clone 1](https://github.com/SuadaSefullaj/Spotify-Clone/assets/134237347/108741e8-a6a0-4962-89ad-c669ec76e8ed)
-![Spotify Clone 2](https://github.com/SuadaSefullaj/Spotify-Clone/assets/134237347/6bfbb45c-48eb-48cc-8a64-ada70a21cd16)
-![Spotify Clone 3](https://github.com/SuadaSefullaj/Spotify-Clone/assets/134237347/2a81e98e-6cc2-424a-ae90-7c3f1d146870)
-![Spotify Clone 4](https://github.com/SuadaSefullaj/Spotify-Clone/assets/134237347/bb7ae0c1-8fcb-49e2-8b9f-b2faa2d97d80)
+![Spotify Clone 1](https://github.com/SuadaSefullaj/Spotify-Clone/assets/134237347/964793c6-5df1-4c41-a63c-ba0ea19281be)
+![Spotify Clone 2](https://github.com/SuadaSefullaj/Spotify-Clone/assets/134237347/34b7fe84-c92f-445d-8ea5-442977700162)
+![Spotify Clone 3](https://github.com/SuadaSefullaj/Spotify-Clone/assets/134237347/832050d7-f086-49e4-8910-1fc85df53edd)
+![Spotify Clone 4](https://github.com/SuadaSefullaj/Spotify-Clone/assets/134237347/a2796b7a-9cce-4b98-ab0d-4911c66d72b7)
+![Spotify Clone 5](https://github.com/SuadaSefullaj/Spotify-Clone/assets/134237347/6b53ded7-82da-4828-8639-e0bf99f2baf3)
+
+
+
+
